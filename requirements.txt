@@ -1,0 +1,9 @@
+ctypes
+string
+os
+time
+requests
+discord_webhook
+colored
+numpy
+pystyle
